@@ -1,6 +1,6 @@
 {
   "name": "koa2-knex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "knex middleware for koa2",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/indatawetrust/koa2-knex/issues"
   },
-  "homepage": "https://github.com/indatawetrust/koa2-knex#readme"
+  "homepage": "https://github.com/indatawetrust/koa2-knex#readme",
+  "dependencies": {
+    "knex": "^0.14.0"
+  }
 }
